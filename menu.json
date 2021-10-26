@@ -1,0 +1,17 @@
+//MenuStripController
+{
+	"Archivos": {
+		"Nuevo": "Options",
+		"Documento de texto(*.txt)": "Display",
+		"Abrir": "OnClick",
+		"sep1": "Separator",
+		"Guardar": "OnClick",
+		"Guardar Como": "OnClick",
+		"sep2": "Separator",
+		"Salir": "OnClick"
+	},
+	"Editar": "Menu",
+	"Construir": "Menu",
+	"Herramientas": "Menu",
+	"Ayuda": "Menu"
+}
