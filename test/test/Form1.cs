@@ -22,6 +22,11 @@ namespace test
 
         private void Form1_Load_1(object sender, EventArgs e)
         {
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
             AngoraDynamics di = new AngoraDynamics();
             //Cargando el menu dinamico desde un archivo json
             di.Load("menu.json", menuStrip1);
