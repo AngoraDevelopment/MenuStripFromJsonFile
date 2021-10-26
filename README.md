@@ -1,2 +1,2 @@
 # MenuStripFromJsonFile
-carga los items de un menu strip desde un documento json
+_Carga dinamicamente los elementos de un menu strip desde un documento JSON_
