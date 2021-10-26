@@ -8,9 +8,6 @@ Visual Studio 2013 o Superior
 ```
 Framework 4.5 o superior
 ```
-```
-* [Newtonsoft](https://www.nuget.org/packages/Newtonsoft.Json/)
-```
 
 ## Contacto 📌
 
@@ -21,6 +18,10 @@ Framework 4.5 o superior
 _Visual Studio 2013_
 
 * [VisualStudio2013](https://visualstudio.microsoft.com/es/vs/older-downloads/) - Descargalo y comienza a programar
+
+## Dependencias 🛠️
+_Newtonsoft_
+* [Descargar](https://www.nuget.org/packages/Newtonsoft.Json/)
 
 ## Apoyanos 🎁
 
