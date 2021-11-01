@@ -20,7 +20,7 @@ _Visual Studio 2013_
 * [VisualStudio2013](https://visualstudio.microsoft.com/es/vs/older-downloads/) - Descargalo y comienza a programar
 
 ## Dependencias 🛠️
-_Newtonsoft_
+_NewtonsoftJSON_
 * [Descargar](https://www.nuget.org/packages/Newtonsoft.Json/)
 
 ## Apoyanos 🎁
